@@ -1,26 +1,22 @@
                                           /*	EMPLOYEES DATABASE CLEANING */
 
-*** 
+/* 
   In this project the goal is to look through a large raw HR Database, find and manage missing data, duplicates and inconsistencies in order to get clean data, ready for a complex analysis. 
 
   Throughout the cleaning process, I find Insights about the Data Modeling that could lead to issues in everyday data handling. 
 
   Finaly, I designed and applied a practical solution to filter out ex-employees and easily get a view of only current employees info.
+*/
+
+/*
+
+# Project Results
+
+tabla
 
 
-Before Cleaning Process
 
-
-| Before | Status |                                                                                          | After | Status |  
-| ---- | ---- |                                                                                              | ---- | ---- |
-| `Missing values` | 73 |                                                                                    | `Missing values` | 0 |
-| `Empty Columns` | 1 |                                                                                      | `Empty Columns` | 0 |
-| `Duplicates` | +30000 |                                                                                    | `Duplicates` | 0 |
-| `Consistency` | Low (many contracts, mixed old and current employees) |                                    | `Consistency` | High. Filtered only current employees |
-| `Usability` | Very Low. Can lead to many errors |                                                          | `Usability` | Ready for Analysis |
-
-
-***
+*/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
