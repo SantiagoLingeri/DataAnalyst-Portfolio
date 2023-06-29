@@ -8,18 +8,22 @@
   Finaly, I designed and applied a practical solution to filter out ex-employees and easily get a view of only current employees info.
 */
 
-/*
-
 
 # Project Results
-| Key Attribute  | Status Before                                       | Status After                             |
-|----------------|-----------------------------------------------------|------------------------------------------|
-| Missing values | 73                                                  | 0                                        |
-| Empty Columns  | 1                                                   | 0                                        |
-| Duplicates     | + 30,000                                            | 0                                        |
-| Consistency    | Low (incompatible contracts, mixed old and current) | High. (Filter to only current employees) |
-| Usability      | Very Low. (Can lead to many errors)                 | Ready for Analysis                       |
-*/
+
+| Key Attribute  | Status Before                                         | Status After                                  |
+|----------------|-------------------------------------------------------|-----------------------------------------------|
+| > Missing values | ❗ 73                                                  | ✅ 0                                        |
+| > Empty Columns  | ❗ 1                                                   | ✅ 0                                        |
+| > Duplicates     | ❗ + 30,000                                            | ✅ 0                                        |
+| > Consistency    | ❗ Low (incompatible contracts, mixed old and current) | ✅ High (Can Filter only current employees) |
+| > Usability      | ❗ Very Low (Many potential errors)                    | ✅ Ready for Analysis                       |
+
+
+***
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
