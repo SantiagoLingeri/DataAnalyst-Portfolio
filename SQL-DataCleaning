@@ -10,12 +10,15 @@
 
 /*
 
+
 # Project Results
-
-tabla
-
-
-
+| Key Attribute  | Status Before                                       | Status After                             |
+|----------------|-----------------------------------------------------|------------------------------------------|
+| Missing values | 73                                                  | 0                                        |
+| Empty Columns  | 1                                                   | 0                                        |
+| Duplicates     | + 30,000                                            | 0                                        |
+| Consistency    | Low (incompatible contracts, mixed old and current) | High. (Filter to only current employees) |
+| Usability      | Very Low. (Can lead to many errors)                 | Ready for Analysis                       |
 */
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
