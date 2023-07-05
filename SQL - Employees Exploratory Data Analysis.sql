@@ -1,6 +1,15 @@
 							
-                            /*		SQL HR Exploratory Data Analysis		*/
-                                
+                            /*		SQL - Employees Exploratory Data Analysis (EDA)		*/
+
+
+-- This project involves conducting an Exploratory Data Analysis (EDA) of the previos cleaned Employees Database, in order to identify patterns in data and answer relevant HR questions. 
+
+-- By leveraging SQL queries, the project aims to provide valuable insights into the company's workforce composition, gender distribution, understand compensation, positions, departments, and explore various aspects of the employee dataset.
+
+-- Finally, the insights and conclutions are summarized with tables and stored procedures to automate everyday proccesses and make Data Exploration more dynamic in the future.
+
+-- SQL Data Manipulation Language and Statements used: Select, setting conditions, Joins, Aggregate Functions, Converting Data Types, Subqueries, Creating Views, Stored Routines.
+
 -------------------------------------------------------------------------------------------------------------------------
 
 /*		Working with relational Database		*/
