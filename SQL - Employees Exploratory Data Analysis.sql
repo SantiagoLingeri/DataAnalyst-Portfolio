@@ -8,7 +8,7 @@
 
 -- Finally, the insights and conclutions are summarized with tables and stored procedures to automate everyday proccesses and make Data Exploration more dynamic in the future.
 
--- SQL Data Manipulation Language and Statements used: Select, setting conditions, Joins, Aggregate Functions, Converting Data Types, Subqueries, Creating Views, Stored Routines.
+-- SQL skills used: Data Manipulation Language(DML), Select, setting conditions, Joins, Aggregate Functions, Converting Data Types, Subqueries, Creating Views, Stored Routines.
 
 -------------------------------------------------------------------------------------------------------------------------
 
