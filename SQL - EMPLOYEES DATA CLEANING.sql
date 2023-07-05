@@ -6,8 +6,10 @@
   - Throughout the cleaning process, I find Insights about the Data Modeling that could lead to issues in everyday data handling. 
   
   - Finaly, I designed and applied a practical solution to filter out ex-employees and easily get a view of only current employees info.
+
+  - SQL skills used: Data Definition Language (DDL), Data Manipulation Language (DML), Transaction Control Language (TCL), Drop/Delete/Truncate, Joins, Group by/Order by, Data Types, 
   
-  - Data was provided by "365 Data Science" Academy in their SQL Certification Course.
+  - Data was provided by 365 Data Science Academy on "SQL for Business Intelligence and Data Analytics" Certification.
 
 ### Project Results
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -19,8 +21,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 > Usability       ❗ Very Low (Many potential errors)                    > ✅ Ready for Analysis
 ---------------------------------------------------------------------------------------------------------------------------------------
-
-*/
+																									*/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
