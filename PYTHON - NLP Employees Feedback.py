@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#%%
-# Importing libraries
+#%%     # Importing libraries
 
 import pandas as pd
 import numpy as np
@@ -14,14 +13,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from textblob import TextBlob
 
-#%%
-
-# Extract data from Excel file
+#%%     # Extract data from Excel file
 
 df = pd.read_excel('Text_NLP.xlsx')
-#%%         # Take a general look of Dataframe(df) Structure, Columns and Data Types.
+
+#%%     # Take general look of Dataframe(df) Structure, Columns and Data Types.
 
 pd.set_option('display.max_columns', 50)
+
 #%%
 
 print(df.head())
