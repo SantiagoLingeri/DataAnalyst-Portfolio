@@ -26,14 +26,14 @@ You can visit my Website and Linkedin Profile at:
 -   [Santiago Lingeri People Analyst Portfolio](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Santiago-Lingeri-'s-People-Analyst-Portfolio)
 -   [Index](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Index)
 -   [Projects](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Projects)
-     -   [SQL - Employees Data Cleaning](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#SQL-Employees-Data-Cleaning)
-    -   [SQL - Employees Exploratory Data Analysis (EDA)](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#SQL-Employees-Exploratory-Data-Analysis-EDA)
-    -   [SQL - Design & Build Business Database](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#SQL-Design&Build-Business-Database)
-    -   [Power BI - People Analytics Case Study & Recomendation](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Power-BI-People-Analytics-Case-Study&Recomendation)
-    -   [Power BI - Customer Analytics Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Power-BI-Customer-Analytics-Dashboard)
-    -   [Tableau - HR Attrition Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Tableau-HR-Attrition-Dashboard) 
-    -   [Python - Employees' Feedback Sentiment Analysis](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Python-Employees'-Feedback-Sentiment-Analysis)
-    -   [Python - HR & Sales EDA](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Python-HR&Sales-EDA)
+    - [SQL - Employees Data Cleaning](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---employees-data-cleaning)
+    - [SQL - Employees Exploratory Data Analysis (EDA)](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---employees-exploratory-data-analysis-eda)
+    -   [SQL - Design & Build Business Database](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---design--build-business-database)
+    -   [Power BI - People Analytics Case Study & Recomendation](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#power-bi---people-analytics-case-study--recomendation)
+    -   [Power BI - Customer Analytics Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#power-bi---customer-analytics-dashboard)
+    -   [Tableau - HR Attrition Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-tableau---hr-attrition-dashboard) 
+    -   [Python - Employees' Feedback Sentiment Analysis](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#python---employees-feedback-sentiment-analysis)
+    -   [Python - HR & Sales EDA](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#python---hr--sales-eda)
 
 
 # [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Projects)Projects
@@ -103,24 +103,6 @@ You can visit my Website and Linkedin Profile at:
 
 * SQL skills used: Data Definition Language(DDL), Create, Primary Key, Foreing Key, Constraints, Data Types, Relational Database, 
 ------
-
-
-### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Tableau-HR-Attrition-Dashboard) Tableau - HR Attrition Dashboard
-
-
-![HR Attrition Dashboard.png](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/main/HR%20Attrition%20Dashboard.png?raw=true)
-
--   This **Project** was designed to **provide** comprehensive **Insights** into **Employees' Attrition** within an organization.
-    
--   By **analyzing** and **reporting** **Key Data Metrics**, the main focus was to **help businesses understand** the factors contributing to **Employees' Turnover**, and make **informed decisions to reduce Attrition**.
-
--   **Data** was **retrieved** from **Kaggle Community:** *"IBM HR Analytics Employee Attrition & Performance"* Dataset.
-
--   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) posted on Tableau Public Cloud
-
--   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) posted on NovyPro
--------
-
 
 
 
@@ -262,6 +244,26 @@ Step by step process:
 
 
 -------------------------------------------------------------------
+
+
+### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Tableau-HR-Attrition-Dashboard) Tableau - HR Attrition Dashboard
+
+
+![HR Attrition Dashboard.png](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/main/HR%20Attrition%20Dashboard.png?raw=true)
+
+-   This **Project** was designed to **provide** comprehensive **Insights** into **Employees' Attrition** within an organization.
+    
+-   By **analyzing** and **reporting** **Key Data Metrics**, the main focus was to **help businesses understand** the factors contributing to **Employees' Turnover**, and make **informed decisions to reduce Attrition**.
+
+-   **Data** was **retrieved** from **Kaggle Community:** *"IBM HR Analytics Employee Attrition & Performance"* Dataset.
+
+-   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) posted on Tableau Public Cloud
+
+-   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) posted on NovyPro
+
+
+-------
+
 
 
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Python-Employees'-Feedback-Sentiment-Analysis)Python - Employees' Feedback Sentiment Analysis
