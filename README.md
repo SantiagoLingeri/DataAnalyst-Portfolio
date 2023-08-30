@@ -166,7 +166,7 @@ checkear en Chat-GPT
 
 -   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) on NovyPro
 
-
+![Power BI - Customer Analytics Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/main/Power%20BI%20-%20Customer%20Analytics%20Dashboard.jpg?raw=true)
 
 This project presents an overview of a **Hotel's Customers general experience**, including many aspects like Net Promoter Score, Rating by Section, Time of year, Purpose of visit and Source of advertising.
 
@@ -249,7 +249,8 @@ Step by step process:
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Tableau-HR-Attrition-Dashboard) Tableau - HR Attrition Dashboard
 
 
-![HR Attrition Dashboard.png](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/main/HR%20Attrition%20Dashboard.png?raw=true)
+![Tableau - HR Attrition Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/main/Tableau%20-%20HR%20Attrition%20Dashboard.png?raw=true)
+
 
 -   This **Project** was designed to **provide** comprehensive **Insights** into **Employees' Attrition** within an organization.
     
