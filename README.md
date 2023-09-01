@@ -1,33 +1,28 @@
-# DataAnalyst-Portfolio
+# [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#My-People-Analyst-/-Data-Analyst-Portfolio)My People Analyst / Data Analyst Portfolio
 
 
-## Welcome to my Portfolio Repository.
-## Here I Share my Projects as a Data Analyst.
+💼 **Welcome** to my **Portfolio Repository**. 
 
-I'm Santiago Lingeri, a Data Analyst and Psychologyst from Argentina. 
-I've learned that every company or organization's success is carried out by people's culture and everyday experience. 
-I improve everyday in observing, asking, analyzing data and designing solutions in order to bring the best out of teams and companies.
+🗃️ Here you will **find my projects** as a **Data Anayst & People Analyst**. 
+
+📊 I look forward to **showcase** my **skillset in Data Analysis** and how I can be **adding value to your organization**.
+
+📎 Everything is **ordered by Tool used (SQL, Power BI, Tableau, Python, Excel)** with a preview **description** and a step-by-step **code documentation**.
+
+📲 Visit my **Website** and **Linkedin Profile** at:
+
+[https://lingerisantiago.wixsite.com/](https://lingerisantiago.wixsite.com/)
+
+![image](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/assets/85772100/3bb86107-cba3-4f24-865a-3f4fe9188ba1)  [Linkedin Profile](https://www.linkedin.com/in/santiago-lingeri-662173200/)
 
 
-# [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Santiago-Lingeri-'s-People-Analyst-Portfolio)Santiago Lingeri 's People Analyst Portfolio
-
-Here you can find my projects as a Data Anayst & People Analyst. 
-
-I look forward to showcase my skillset in Data Analysis and how I could be adding value to your organization.
-
-Everything is ordered by Tool used (SQL, Power BI, Tableau, Python, Excel) with a preview description and a step-by-step code documentation.
-
-You can visit my Website and Linkedin Profile at:
-
-- Link a pagina
-- Link a Linkedin
 # [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Index)Index
 
--   [Santiago Lingeri People Analyst Portfolio](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Santiago-Lingeri-'s-People-Analyst-Portfolio)
+-   [My People Analyst / Data Analyst Portfolio](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#My-People-Analyst-/-Data-Analyst-Portfolio)
 -   [Index](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Index)
 -   [Projects](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Projects)
-    - [SQL - Employees Data Cleaning](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---employees-data-cleaning)
-    - [SQL - Employees Exploratory Data Analysis (EDA)](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---employees-exploratory-data-analysis-eda)
+    -   [SQL - Employees Data Cleaning](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---employees-data-cleaning)
+    -   [SQL - Employees Exploratory Data Analysis (EDA)](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---employees-exploratory-data-analysis-eda)
     -   [SQL - Design & Build Business Database](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#-sql---design--build-business-database)
     -   [Power BI - People Analytics Case Study & Recomendation](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#power-bi---people-analytics-case-study--recomendation)
     -   [Power BI - Customer Analytics Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#power-bi---customer-analytics-dashboard)
@@ -38,6 +33,7 @@ You can visit my Website and Linkedin Profile at:
 
 # [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Projects)Projects
 
+
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#SQL-Employees-Data-Cleaning) SQL - Employees Data Cleaning
 
 📌 [*See full Project*](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/e88b1152209220984397d6d83f3a983ffcb827a0/SQL%20-%20EMPLOYEES%20DATA%20CLEANING.sql)
@@ -46,10 +42,10 @@ You can visit my Website and Linkedin Profile at:
 
 * Within the task, I **found inconsistencies** in Data Modeling that could become obstacles in everyday Data Handling.
 
-* To **prevent** this, I desinged and implemented a **solution that simplifies** future **Analytics Processes** , while **preserving the integrity** of the **Database**.
+* To **prevent** this, I designed and implemented a **solution that simplifies** future **Analytics Processes** , while **preserving the integrity** of the **Database**.
 
 
-#### 📌 Project Results
+- **Project Results:**
 
 | Key Attribute | Status Before  | Status After   |
 |----------------|------------------------------------------------------|-----
@@ -62,6 +58,7 @@ You can visit my Website and Linkedin Profile at:
 
 ------
 
+
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#SQL-Employees-Exploratory-Data-Analysis-EDA) SQL - Employees Exploratory Data Analysis (EDA)
 
 📌 [*See full Project*](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/e88b1152209220984397d6d83f3a983ffcb827a0/SQL%20-%20Employees%20Exploratory%20Data%20Analysis.sql)
@@ -73,6 +70,7 @@ You can visit my Website and Linkedin Profile at:
 * Finally, **Insights** and conclutions are summarized with **tables** and **stored procedures** to **automate everyday proccesses** and make **Data Exploration more dynamic** in the future.
 
 * **SQL skills used:** Data Manipulation Language (DML), Select, setting conditions, Joins, Aggregate Functions, Converting Data Types, Subqueries, Creating Views, Stored Routines.
+
 
 ------
 
@@ -101,117 +99,67 @@ You can visit my Website and Linkedin Profile at:
 
 		5. Data Pre-processing: The database was prepared to handle potential data discrepancies, and improve data quality.
 
-* SQL skills used: Data Definition Language(DDL), Create, Primary Key, Foreing Key, Constraints, Data Types, Relational Database, 
-------
+* **SQL skills used**: Data Definition Language(DDL), Create, Primary Key, Foreing Key, Constraints, Data Types, Relational Database.
 
+
+------
 
 
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Power-BI-People-Analytics-Case-Study&Recomendation)Power BI - People Analytics Case Study & Recomendation
 
-📌   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) on NovyPro
 
-#### Tips para descript
+📌   [See full Project](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/23aa0cf173a62e717ca49dc458fcda30da3afa1d/Power%20BI%20-%20People%20Analytics%20Case%20Study.pdf)
 
-extract, transform, and load
-
-transform relevant people-related data for analysis in Power BI. This step ensures that the data is accurate, complete, and formatted appropriately.
-
-from various sources such as HR systems, employee surveys, and performance evaluations.
-
-data is then visualized through interactive dashboards, reports, and charts, allowing stakeholders to explore and understand key metrics and trends related to workforce demographics, employee engagement, performance, and other HR-related insights.
-
-The project will likely involve tasks such as data cleansing and preparation, defining relevant KPIs (Key Performance Indicators) and developing automated data refresh mechanisms to ensure the information remains up to date.
-
-communicating
-
-Through the "Power BI - People Analytics Overview & General Recommendations" project, organizations can gain valuable insights into their workforce, identify areas for improvement, and make data-driven decisions to enhance employee engagement, optimize talent management strategies, and drive overall organizational success.
+📌   [Link to Interactive Dashboard](https://www.novypro.com/profile_projects/santiago-julianlingeri) on NovyPro (Work in progress)
 
 
-enabling them to make informed decisions and drive positive outcomes for their workforce and organization as a whole.
-
-Extracting meaningful insights from the data visualizations and presenting actionable recommendations to improve workforce management, enhance employee satisfaction, and drive overall organizational performance.
-
-These dashboards will showcase key people analytics metrics, such as employee turnover, performance trends, diversity and inclusion statistics, and employee engagement scores.
-
-Designing and developing interactive dashboards
-
-checkear en Chat-GPT
-
-**ETL**
-    +Extract: Downloading data from web HR system. Format CSV.
-    +Transform: Using MS Excel to set necessary changes, data formatting, cleaning process.
-    +Load: Making Dataset Connection to Power BI using Power Query to fit correctly tables and adjust details.
-
-**Data Analysis**
-    +Find general correlations in employees attributes in Excel.
-    +Add new complex metrics to explore relevant Insights in Excel.
-    +Visually explore and check previous hypothesis using Power BI.
-    +Put in order relevant conclutions.
+![Power BI - People Analytics Case Study_page-1](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/assets/85772100/87d96eb2-99d2-43ed-b585-2ad39ccd9bb2)
 
 
- **Visualizing Data, Reporting with Power BI**
-    +Add new quick measures to make accurate visualizations
-    +Showcase a broad view of HR and people's demographics within Company
-    +Communicating most important Organization HR challenges in an precise and Visually evident Charts.
-    +Summarize KPI in an Interactive Dashboard to enable future monitoring and intervention
+- This Project is a **complete case of improving a Business' operations** by the process of **analyzing People's Data**, **identifying challenges** and **proposing effective solutions** within **HR**.
 
-**Recomendation**
-    +Using HR domain knowledge to think out various actionable solutions for those challenges.
-    +End presentation explaining 4 possible improvement HR iniciatives to main topic in previous Dashboards. (2 achievable in the mid-term and 2 achievable in the long-term).
+- It involved the **complete Data Analysis process**, from **examining** potencial hidden **points of pain** in a **Company** that appears to run functionaly, to **designing effective visualizations** of the **Insights**, **KPIs** and convenient **courses of Action**. 
 
+- **Steps** in process:
 
-----
+	- **ETL**
+	    - ***Extract***: Downloading data from web HR system. Format CSV.
+	    - **Transform**: Using MS Excel to set necessary changes, data formatting, cleaning process.
+	    - **Load**: Making Dataset Connection to Power BI using Power Query to fit correctly tables and adjust details.
+
+	- **Data Analysis**
+	    - Find general correlations in employees attributes in Excel.
+	    - Add new complex metrics to explore relevant Insights in Excel.
+	    - Visually explore and check previous hypothesis using Power BI.
+	    - Put in order relevant conclutions.
+
+	- **Visualizing Data, Reporting with Power BI**
+	    - Adding new quick measures to make accurate visualizations.
+	    - Showcase a broad view of HR and people's demographics within Company.
+	    - Communicating most important Organization HR challenges in an precise and Visually evident Charts.
+	    - Summarize KPIs in one Interactive Dashboard to enable future action and monitoring.
+
+	- **Recomendations**
+	    - Using HR domain knowledge to think out different actionable solutions for those challenges.
+	    - End presentation explaining possible improvement HR Iniciatives (mid and long-term) regarding the main topic in previous Dashboards.
+
+- **Data** was **provided** by **HumanosReales Academy** to complete project and **Certification in People Analytics**.
+
+------
+
 
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Power-BI-Customer-Analytics-Dashboard)Power BI - Customer Analytics Dashboard
 
--   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) on NovyPro
-
-![Power BI - Customer Analytics Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/main/Power%20BI%20-%20Customer%20Analytics%20Dashboard.jpg?raw=true)
+📌   [Link to Interactive Dashboard](https://www.novypro.com/profile_projects/santiago-julianlingeri) on NovyPro (Work in progress)
 
 This project presents an overview of a **Hotel's Customers general experience**, including many aspects like Net Promoter Score, Rating by Section, Time of year, Purpose of visit and Source of advertising.
 
 The main focus was to analyze potencial trends, detect strengths and obstacles in giving the best experience to each guest.
 
-Step by step process:
+![Customer Analytics Dashboard.jpg](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/6ce3f51455b52f7c0e49b580e2d9185a31d7a78c/Customer%20Analytics%20Dashboard.jpg?raw=true)
 
-1.  **Dataset Loading and Preparation:**
-    
-    -   Load the customer feedback dataset from Excel into Power BI.
-    -   Review the dataset to ensure data quality and consistency.
-    -   Clean and transform the data as needed, addressing missing values and outliers.
-2.  **Defining Key Metrics and Variables:**
-    
-    -   Identify the key metrics to be analyzed, such as NPS, section ratings, time of year, purpose of visit, and advertising source.
-    -   Categorize and create necessary calculated columns for better insights.
-3.  **Creating Visualizations:**
-    
-    -   Choose appropriate visualizations for each metric to effectively convey insights.
-    -   Design clear and insightful visualizations representing data accurately.
-    -   Use Power BI's interactive features allowing users to actively explore the data.
-4.  **Dashboard Design:**
-    
-    -   Arrange a harmonic and elegant display of visualizations on the dashboard canvas.
-    -   Maintain a color scheme and formatting consonant with Hotel Branding Style.
-     -   Tell an engaging story, structuring the dashboard in a way that guides the user through the analysis
-5.  **Interactive Elements:**
-    
-    -   Add slicers, filters, configure cross-filtering and highlighting to enable users to dynamically adjust the data displayed.
-6.  **Insightful Analysis:**
-    
-    -   Interpret the visualizations to derive meaningful insights from the data.
-    -   Identify trends, patterns, and potential areas for improvement in the hotel's customer experience.
-    
-7.  **User Testing:**
-    
-    -   Test the dashboard with a diverse group of users to ensure its functionality and effectiveness.
-    -   Gather feedback to make any necessary adjustments and improvements.
-8.  **Documentation:**
-    -   Document the process and data sources used for transparency and future reference.
-    -   Include any calculations or transformations performed on the dataset.
-9.  **Final Presentation:**
-    -   Once satisfied with the dashboard's accuracy and usability, present the insights and findings to stakeholders.
 
-### Results of Analysis
+**Results of Analysis**
 
 -   Overall rating is satisfactory but not exceptional. Oportunities exist to bring magnificent experiences to customers.
     
@@ -231,7 +179,7 @@ Step by step process:
     
 -   Business-oriented guests are more likely to notice the hotel through email advertising, while vacation-oriented guests discover it via various channels, including hotel booking sites, word of mouth, search engines, and Facebook ads. 
 
-### Final Recomendations
+**Final Recomendations**
 
  Opportunities exist for enhancing various aspects of the guest experience to achieve higher ratings:
 
@@ -241,9 +189,7 @@ Step by step process:
 - Drive targeted marketing efforts based on guest preferences.
 
 
-
-
--------------------------------------------------------------------
+------
 
 
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Tableau-HR-Attrition-Dashboard) Tableau - HR Attrition Dashboard
@@ -251,36 +197,28 @@ Step by step process:
 
 ![Tableau - HR Attrition Dashboard](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/main/Tableau%20-%20HR%20Attrition%20Dashboard.png?raw=true)
 
-
 -   This **Project** was designed to **provide** comprehensive **Insights** into **Employees' Attrition** within an organization.
     
 -   By **analyzing** and **reporting** **Key Data Metrics**, the main focus was to **help businesses understand** the factors contributing to **Employees' Turnover**, and make **informed decisions to reduce Attrition**.
 
 -   **Data** was **retrieved** from **Kaggle Community:** *"IBM HR Analytics Employee Attrition & Performance"* Dataset.
 
--   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) posted on Tableau Public Cloud
+-   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) posted on **Tableau Public** Cloud.
 
--   [Link to Interactive Dashboard](https://public.tableau.com/views/HRAttritionDashboard_16871491703650/HRDashboard?:language=es-ES&:display_count=n&:origin=viz_share_link) posted on NovyPro
+-   [Link to Interactive Dashboard](https://www.novypro.com/project/tableau---hr-attrition-dashboard) posted on **NovyPro**.
 
 
 -------
 
 
-
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Python-Employees'-Feedback-Sentiment-Analysis)Python - Employees' Feedback Sentiment Analysis
 
-This Project assesses the sentiment of Employees' Feedback using Natural Language Processing (NLP). It categorizes Feedback into Positive, Negative, or Neutral Sentiments, providing insights into employees' satisfaction.
-
-**Steps in Process:**
-
-1.  **Data Loading:**
-2. **Data Cleaning:**
-3.  **Sentiment Model:**
-4.  **Sentiment Classification:**
-5.  **Visualization:**
+📌 [*See full Project*](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/6ce3f51455b52f7c0e49b580e2d9185a31d7a78c/PYTHON%20-%20NLP%20Employees%20Feedback.py)	
 
 
-**Tools:** Excel, Python, NLP libraries (NLTK, Textblob), Sentiment analysis models, Data visualization libraries (Seaborn, Matplotlib), Data handling libraries (pandas, numpy)
+This Project assesses the **Sentiment of Employees' Feedback** using **Natural Language Processing (NLP)**. It categorizes Feedback into Positive, Negative, or Neutral Sentiments, providing insights into employees' satisfaction.
+
+**Tools:** Excel, Python, NLP libraries (NLTK, Textblob), Sentiment analysis models, Data visualization libraries (Seaborn, Matplotlib), Data handling libraries (pandas, numpy).
 
 **Benefits:**
 -   Uncovers employee sentiment insights.
@@ -290,10 +228,26 @@ This Project assesses the sentiment of Employees' Feedback using Natural Languag
 **Outcome:** 
 An accessible tool for HR and management, providing valuable sentiment analysis from employee feedback.
 
-----
+![](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/c232a6a9bfd5dd9220fac5653700a11a3a387d7f/Python%20Charts/Sentiment%20Scores.png?raw=true)
 
-----
+
+
+
+
+![](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/c232a6a9bfd5dd9220fac5653700a11a3a387d7f/Python%20Charts/Sent%20cat%20Bar%20chart.png?raw=true)
+
+![](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/c232a6a9bfd5dd9220fac5653700a11a3a387d7f/Python%20Charts/Sentiment%20and%20Performance.png?raw=true)
+
+![](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/f36cbddb901dc8fb998de2166197862711996843/Python%20Charts/Sentiment%20by%20Leader.png?raw=true)
+
+------
+
+
 ### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Python-HR&Sales-EDA)Python - HR & Sales EDA
+
+📌 [*See full Project*](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/blob/6ce3f51455b52f7c0e49b580e2d9185a31d7a78c/Python%20-%20EDA%20-%20HR%20%26%20Sales%20Dataset.py)	
+
+
 
 This **Project** is an in-depth **Exploratory Data Analysis (EDA) using Python, focusing on HR & Sales.** 
 The **main goal** of this analysis is to clean and prepare the data, visualize key trends and patterns, and gain valuable insights by leveraging Python's data manipulation and visualization capabilities.
@@ -332,17 +286,29 @@ The **main goal** of this analysis is to clean and prepare the data, visualize k
 
 - Higher Employee Satisfaccion doesn't necesarily leads to improve Performance Scores in general.
 
-**How These Skills and Projects benefit a Company:** 
+
+**How These Skills and Project benefit a Company:** 
 
 **In summary**, this project showcases my **Python proficiency in data analysis and visualization** and highlights how **these skills can empower a company** in many valuable aspects:
 
-- **Data-Driven Decision Making**
-- **Improvement Opportunities Detection**
-- **Operational Efficiency**
-- **Competitive Advantage**
-- **Resource Optimization**
-- **Risk Mitigation**
-- **Communication**
+**✓ Data-Driven Decision Making**
+**✓ Improvement Opportunities Detection**
+**✓ Operational Efficiency**
+**✓ Competitive Advantage**
+**✓ Resource Optimization**
+**✓ Risk Mitigation**
+**✓ Communication**
+
+
+------
+
+### [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#Python-HR&Sales-EDA)MS Excel
+
+**Python, Power BI** and **Talbeau Projects' Data** were in some cases **pre-processed**, and **extracted** from **Excel**, using **Power Query**.
+
+**Other Excel skills:** Pivot Tables, Pivot Chart, Slicers, LOOKUP, INDEX, MATCH, SUMIFS, SUMPRODUCT, XLOOKUP, IFERROR, Conditional formatting, Remove duplicates, COUNTBLANK, DAYS and NETWORKDAYS, RANK.
+
+------
 
 
 ---
