@@ -11,7 +11,7 @@
 
 📲 Visit my **Website** and **Linkedin Profile** at:
 
-[https://lingerisantiago.wixsite.com/](https://lingerisantiago.wixsite.com/)
+[https://lingerisantiago.wixsite.com/ (work in progress)](https://lingerisantiago.wixsite.com/)
 
 ![image](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio/assets/85772100/3bb86107-cba3-4f24-865a-3f4fe9188ba1)  [Linkedin Profile](https://www.linkedin.com/in/santiago-lingeri-662173200/)
 
