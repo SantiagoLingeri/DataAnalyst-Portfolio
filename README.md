@@ -1,4 +1,4 @@
-# [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#My-People-Analyst-/-Data-Analyst-Portfolio)My People Analyst / Data Analyst Portfolio
+# [](https://github.com/SantiagoLingeri/DataAnalyst-Portfolio#My-People-Analyst-/-Data-Analyst-Portfolio)My Data Analyst Portfolio
 
 
 💼 **Welcome** to my **Portfolio Repository**. 
